@@ -1,0 +1,5 @@
+<?php echo 'hello' ?>
+{% include './templates/parts/_header.njk' %}
+<h1>PHP geeeht</h1>
+
+{% include './templates/parts/_footer.njk' %}
